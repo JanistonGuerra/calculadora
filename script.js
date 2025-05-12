@@ -19,3 +19,5 @@ function result() {
         display.value = "";
     }
 }
+
+//eval() nativo do js para transforma em equaçao,com isso n precisou tranforma string em number
